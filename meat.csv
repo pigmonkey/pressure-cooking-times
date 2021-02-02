@@ -1,0 +1,82 @@
+meat,"electric pressure cooker (9-10psi/70kpa)","electric pressure cooker (11-12psi/80kpa)","stovetop pressure cooker (13-15psi/100kpa)",frozen*,"pressure selection","opening method"
+"Beef, brisket",75,60,45,no,High,Natural
+"Beef, flank steak",17,15,10,+ 10,High,"Normal, Natural"
+"Beef, ground",5,5,5,4,High,Natural
+"Beef, Osso buco",30,25,20,+ 10-15,High,Natural
+"Beef, ox tail",60,45,30,15,High,Natural
+"Beef, ribs",70,60,45,10,High,Natural
+"Beef, roast",50,40,30,no,High,Natural
+"Beef, round",70,60,50,no,High,Natural
+"Beef, stew (cubed)",20,15-20,10-15,5,,"Normal, Natural"
+"Beef, stock (bones, ect.)",75,60,45,15,High,Natural
+"Beef, tongue",60,50,40,no,High,Natural
+"Boar, roast",60,45,30,no,High,Natural
+"Boar, stew (cubed)",25,20,15,10,High,"Normal, Natural"
+Cheese,see instructions,,,,High,Natural
+"Chicken, boneless & skinless breast or thigh -BOILED",3,2,1,4,High,Natural
+"Chicken, boneless & skinless breast or thigh -STEAMED",7,5,3,4,High,Natural
+"Chicken, ground",6,5,4,4,High,Natural
+"Chicken, liver",3,3,3,4,High,Normal
+"Chicken, bone-in pieces (leg, thigh, breast, wings) -BOILED",12,10,8,+ 5-7,High,Natural
+"Chicken, bone-in pieces (leg, thigh, breast, wings) -STEAMED",16,14,12,+ 8-10,High,Natural
+"Chicken, stock (bones, ect.)",40,35,30,10,High,Natural
+"Chicken, strips",1,1,1,4,High,Natural
+"Chicken, whole (up to 4lbs/2k)",30,20-25,15-20,10,High,Natural
+"Cornish Hen, whole",11,10,8,10,High,Natural
+"Deer, Saddle",25,20,15,no,High,Natural
+"Deer, roast",35,30,20,no,High,Natural
+"Duck, pieces",8,8,8,+ 5-7,High,Natural
+"Duck, whole",35,30,25,10,High,Natural
+"Eggs, en cocotte",5,4,3,-,Low,Normal
+"Eggs, hard boiled",see instructions,,,,Low,Normal
+"Eggs, poached",2,2,2,-,Low,Normal
+"Elk, roast",35,30,25,no,High,Natural
+"Elk, stew (cubed)",25,20,15,10,High,Normal
+"Gammon (see Pork, leg)",,,,,,
+Goat,25,20,15,+ 10-15,High,Natural
+"Goose, pieces",25,20,15,+ 5-7,High,Natural
+"Ham (see Pork, Leg)",,,,,,
+Hare,35,30,25,10,High,Natural
+"Lamb, Chops",7,5,3,5,High,Normal
+"Lamb, Ground",8,8,8,5,High,Normal
+"Lamb, leg/shank",40,35,30,+ 10-15,High,Natural
+"Lamb, roast",25,20,15,no,High,Natural
+"Lamb, shoulder",30,25,20,no,High,Natural
+"Lamb, stew (cubed)",10,10,10,10,High,Normal
+Milk,(see indiviudal recipes),,,,,
+"Milk, coconut (see FRUIT)",,,,,,
+"Milk, condensed",see instructions,,,,High,Natural
+Mutton (see Lamb),,,,,,
+"Ox, tail (see Beef, Ox tail)",,,,,,
+Pheasant,23,20,15,10,High,Natural
+Pigeon,30,25,20,10,High,Natural
+"Pork, Belly",45,40,35,no,High,Natural
+"Pork, Chops or Steaks",6,6,6,4,High,Normal
+"Pork, foot/ham hock",45,40,35,+ 20-30,High,Natural
+"Pork, ground",5,5,5,5,High,Natural
+"Pork, leg/shank",40,35,30,no,High,Natural
+"Pork, loin",15,12,10,no,High,Natural
+"Pork, roast",35,30,25,no,High,Natural
+"Pork , stew (cubed)",8,8,5,5,High,Normal
+Pork Sausage,10,8,5,5,High,Normal
+"Pork, ribs",25,20,15,+ 10-15,High,Natural
+"Pork, shoulder",55,50,45,no,High,Natural
+"Pork, stock (bones, ect.)",75,60,45,10,High,Natural
+Quail,10,9,7,7,High,Natural
+Rabbit,20,18,15,+ 10-15,High,Natural
+"Roast beef, medium",10 to 12,8 to 10,8,no,High,Natural
+"Roast beef, rare",8 to 9,6 to 8,6,no,High,Natural
+"Roast beef, well done",12 to 14,10 to 12,10,no,High,Natural
+Squab (see Pigeon),,,,,,
+Tripe,15,15,15,10,High,Natural
+"Turkey, breast (stuffed/rolled)",22,20,20,no,High,Natural
+"Turkey, breast sliced",10,9,7,4,High,Normal
+"Turkey, legs",40,35,30,+ 15-20,High,Natural
+"Turkey, wings",25,20,15,10,High,Natural
+"Veal, Chop or Steak",5,5,5,+ 4-6,High,Normal
+"Veal, ground",5,5,5,4,High,Natural
+"Veal, Osso buco",25,20,15,10,High,Natural
+"Veal, Roast",25,20,15,no,High,Natural
+"Veal, stock (bones, ect.)75",75,60,45,10,High,Natural
+"Veal, Tounge",45,40,35,no,High,Natural
+"Venison (see Deer, or Boar)",,,,,,

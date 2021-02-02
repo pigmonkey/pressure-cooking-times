@@ -1,0 +1,7 @@
+"Method Name","Speed","Procedure","Electric (approx min)","Stovetop (approx min)"
+"Cold-water Quick","Fastest","Move stove top pressure cooker to sink and pour cold water on the lid. NOT RECOMMENDED",,0.5
+"Base Immersion","Very Fast","Move stove top pressure cooker to sink full of cold water and immerse the base of the cooker in it. NOT RECOMMENDED",,1
+"Normal (aka Quick Release)","Fast","Open the pressure valve on the lid.",3,2
+"Slow Normal","Somewhat Slow","Open the pressure valve a little bit to release pressure slowly, or in short bursts 10 seconds apart.",6,5
+"10-Minute Natural","Slow","Count 10 minutes, and then release remaining pressure by opening the valve. If the pressure dissipates sooner than 10 minutes do not remove lid until time is up.",10,10
+"Natural","Slowest","Do not do anything. Wait until the pressure has dissipated completely, and the lid-lock has disengaged.","20-30","10-15"
